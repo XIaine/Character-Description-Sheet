@@ -1,0 +1,108 @@
+---Info---
+Species: (Enter any species here)
+Race: (Enter the race of your species here)
+Sex: (Male, Female, Herm, Etc.)
+Height: (Enter height here)
+Age: (Anything below 18, I'm calling the FBI)
+Nationality: (American, Asian, African, Etc.)
+
+---Build---
+Body: (Skinny, Average, Chubby, Obese)
+Shape: (Average, Toned, Muscular)
+
+---Body Hair---
+Eyebrows: (Y/N)
+Scalp: (Y/N)
+Chest: (Y/N)
+Armpits: (Y/N)
+Arms: (Y/N)
+Legs: (Y/N)
+Feet: (Y/N)
+Back: (Y/N)
+Butt: (Y/N)
+Hands: (Y/N)
+Tummy: (Y/N)
+Neck: (Y/N)
+Nostrils: (Y/N)
+Ears: (Y/N)
+Face
+> Lip: (Y/N)
+> Chin: (Y/N)
+> Neck: (Y/N)
+> Sideburns: (Y/N)
+> Jawline: (Y/N)
+> Cheeks: (Y/N)
+
+---Hair (Scalp)---
+Hair Color: (Enter Hexcode Here)
+Hair Length: (Short, Medium, Long)
+Hair Type: (Straight, Wavy, Curly)
+Bangs: (Cut, Not Cut, N/A)
+
+---Eyes---
+Size: (Small, Medium, Large)
+Eye color: (Enter Hexcode Here)
+Eyelashes: (Short, Medium, Long)
+Eyebrows: (Thin, Bushy, Unibrow, Etc.)
+
+---Nose---
+Size: (Small, Medium, Large)
+Shape: (Round, Pointed)
+
+---Mouth---
+Size
+> Height: (Small, Medium, Large)
+> Width: (Small, Medium, Large)
+Color: (Enter Hexcode Here)
+
+---Ears---
+Size: (Small, Medium, Large)
+Shape: (Round, Elven, Etc.)
+
+---Hands---
+Size: (Small, Medium, Large)
+Nails: (Y/N)
+Nail Size: (Short, Medium, Long)
+Nail Color: (Enter Hexcode Here)
+
+---Feet---
+Size: (Small, Medium, Large)
+Nails: (Y/N)
+Nail Size: (Small, Medium, Large)
+Nail Color: (Enter Hexcode Here)
+
+---Sexual Organs---
+Breast Cup Size: (A, B, C, N/A)
+Nipples: (Enter Hexcode Here)
+Vagina: (Innie, Outie, Spade, Etc.)
+Penis: (Small, Medium Large, Etc.)
+Pubic Hair: (None, Trimmed, Bushy, Etc.)
+Clit: (Small, Medium, Large, Etc.)
+Balls: (Small, Medium, Large, Etc.)
+Vulvas: (Small, Medium, Large, Etc.)
+Buttocks: (Small, Medium, Large, Etc.)
+
+---Deformities---
+Scars: (Y/N)
+Amputations: (Y/N)
+Birth Defects: (Y/N)
+
+---Attire---
+Shirt: (Image URL)
+Pants: (Image URL)
+Uniform: (Image URL)
+Socks
+> Type: (Ankle, Crew, Thigh-Highs, Etc.)
+> Color: (Enter Hexcode Here)
+Underwear
+> Type: (Boxers, Panties, Etc.)
+> Color: (Enter Hexcode Here)
+Bra
+> Type: (Sports, Conventional, Etc.)
+> Color: (Enter Hexcode Here)
+Glasses
+> Size: (Small, Medium, Large)
+> Shape: (Circular, Rectangular, Etc.)
+
+---Extra Details---
+(Anything you wish to add!)
